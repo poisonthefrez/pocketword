@@ -192,8 +192,6 @@ const LESSONS = {
     description: 'Права, юрисдикция, ответсвенность',
     timestamp: 8,
     items: [
-      { ru: "Неожиданно", en: "Out of the blue" },
-      { ru: "Отправить оплату", en: "Send a fee" },
       { ru: "Нарушать права", en: "Violate rights" },
       { ru: "Не увеличивать", en: "Keep down" },
       { ru: "Быть против закона", en: "Be against the law" },
